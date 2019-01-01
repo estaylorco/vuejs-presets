@@ -1,7 +1,4 @@
-{
-  "useTaobaoRegistry": false,
-  "presets": {
-    "tsi-standard": {
+ {
       "useConfigFiles": true,
       "plugins": {
         "@vue/cli-plugin-babel": {},
@@ -16,6 +13,4 @@
       "router": true,
       "routerHistoryMode": true,
       "vuex": true
-    }
-  }
-}
+ }
