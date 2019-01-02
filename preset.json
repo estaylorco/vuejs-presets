@@ -1,6 +1,5 @@
  {
-      "useConfigFiles": true,
-      "runtimeCompiler": true,
+      "useConfigFiles": true
       "plugins": {
         "@vue/cli-plugin-babel": {},
         "@vue/cli-plugin-eslint": {
